@@ -1,11 +1,11 @@
 ![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)
 <h1 align="center">Hi 👋, I'm Akshat Kelotra</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Indore, India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshat6264&label=Profile%20views&color=0e75b6&style=flat" alt="akshat6264" /> </p>
 
-- 🔭 I’m currently working on **Flappy Bird**
+- 🔭 I’m currently working on **-**
 
 - 🌱 I’m currently learning **AWS**
 
